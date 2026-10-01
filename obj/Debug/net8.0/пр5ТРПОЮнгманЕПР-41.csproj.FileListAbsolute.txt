@@ -1,0 +1,14 @@
+D:\пр5ТРПОЮнгманЕПР-41\bin\Debug\net8.0\пр5ТРПОЮнгманЕПР-41.exe
+D:\пр5ТРПОЮнгманЕПР-41\bin\Debug\net8.0\пр5ТРПОЮнгманЕПР-41.deps.json
+D:\пр5ТРПОЮнгманЕПР-41\bin\Debug\net8.0\пр5ТРПОЮнгманЕПР-41.runtimeconfig.json
+D:\пр5ТРПОЮнгманЕПР-41\bin\Debug\net8.0\пр5ТРПОЮнгманЕПР-41.dll
+D:\пр5ТРПОЮнгманЕПР-41\bin\Debug\net8.0\пр5ТРПОЮнгманЕПР-41.pdb
+D:\пр5ТРПОЮнгманЕПР-41\obj\Debug\net8.0\пр5ТРПОЮнгманЕПР-41.GeneratedMSBuildEditorConfig.editorconfig
+D:\пр5ТРПОЮнгманЕПР-41\obj\Debug\net8.0\пр5ТРПОЮнгманЕПР-41.AssemblyInfoInputs.cache
+D:\пр5ТРПОЮнгманЕПР-41\obj\Debug\net8.0\пр5ТРПОЮнгманЕПР-41.AssemblyInfo.cs
+D:\пр5ТРПОЮнгманЕПР-41\obj\Debug\net8.0\пр5ТРПОЮнгманЕПР-41.csproj.CoreCompileInputs.cache
+D:\пр5ТРПОЮнгманЕПР-41\obj\Debug\net8.0\пр5ТРПОЮнгманЕПР-41.dll
+D:\пр5ТРПОЮнгманЕПР-41\obj\Debug\net8.0\refint\пр5ТРПОЮнгманЕПР-41.dll
+D:\пр5ТРПОЮнгманЕПР-41\obj\Debug\net8.0\пр5ТРПОЮнгманЕПР-41.pdb
+D:\пр5ТРПОЮнгманЕПР-41\obj\Debug\net8.0\пр5ТРПОЮнгманЕПР-41.genruntimeconfig.cache
+D:\пр5ТРПОЮнгманЕПР-41\obj\Debug\net8.0\ref\пр5ТРПОЮнгманЕПР-41.dll
